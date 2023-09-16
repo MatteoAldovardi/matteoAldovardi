@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Salve gente, sono Matteo Aldovardi!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(2, min = 0, max = 100)\n\n[1] 94.54804 93.28669"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(2, min = 0, max = 100)\n\n[1] 4.897243 5.895289"
   },
   {
     "objectID": "about.html",
