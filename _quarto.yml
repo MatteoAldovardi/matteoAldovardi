@@ -14,6 +14,7 @@ format:
   html:
     theme: darkly
     css: styles.css
+    fontcolor: "#D5A93D"
     toc: true
 
 
