@@ -1,0 +1,11 @@
+---
+title: "Notes"
+editor: visual
+---
+
+## Subjects
+
+- Linear Algebra
+- Harmonic Analysis 
+- Functional Analysis
+---

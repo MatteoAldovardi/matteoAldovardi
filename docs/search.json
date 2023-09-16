@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Salve gente, sono Matteo Aldovardi!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(2, min = 0, max = 100)\n\n[1] 94.54804 93.28669"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Notes.html",
+    "href": "Notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Linear Algebra\nHarmonic Analysis\nFunctional Analysis"
+  },
+  {
+    "objectID": "Notes.html#subjects",
+    "href": "Notes.html#subjects",
+    "title": "Notes",
+    "section": "",
+    "text": "Linear Algebra\nHarmonic Analysis\nFunctional Analysis"
   }
 ]
