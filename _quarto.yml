@@ -13,7 +13,7 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: lux
     css: styles.css
     fontcolor: "#D5A93D"
     toc: true
