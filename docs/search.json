@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Salve gente, sono Matteo Aldovardi!",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(2, min = 0, max = 100)\n\n[1] 16.84582 11.28836"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "About.html",
+    "href": "About.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "About.html#quarto",
+    "href": "About.html#quarto",
+    "title": "About",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "About.html#running-code",
+    "href": "About.html#running-code",
+    "title": "About",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
     "objectID": "Notes.html",
@@ -26,5 +33,12 @@
     "title": "Notes",
     "section": "",
     "text": "Linear Algebra\nHarmonic Analysis\nFunctional Analysis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Salve gente, sono Matteo Aldovardi!",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nrunif(2, min = 0, max = 100)\n\n[1] 97.76365 87.55754"
   }
 ]
