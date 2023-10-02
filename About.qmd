@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hey there, I'm Matteo Aldovardi, and I'm pretty passionate about math. I studied mathematics at the University of Pisa.
+Hey there, I'm Matteo Aldovardi, and I'm pretty passionate about math. I studied mathematics at the University of Pisa. 
 
 I graduated on October 28th 2022 with a thesis in Harmonic Analysis. If you're curious, you can find it in the University's archive here:
 
