@@ -10,7 +10,6 @@ website:
         text: Home
       - Notes.qmd
       - About.qmd
-
 format:
   html:
     theme: lux
