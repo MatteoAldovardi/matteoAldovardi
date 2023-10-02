@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - Notes.qmd
-      - About.qmd
+      - about.qmd
 format:
   html:
     theme: lux
