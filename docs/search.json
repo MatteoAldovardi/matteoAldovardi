@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Matteo Aldovardi",
     "section": "",
-    "text": "runif(2, min = 0, max = 100)\n\n[1] 27.46946 42.96853"
+    "text": "runif(2, min = 0, max = 100)\n\n[1] 71.39861 69.57840"
   },
   {
     "objectID": "about.html",
